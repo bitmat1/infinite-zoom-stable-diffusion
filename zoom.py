@@ -192,8 +192,7 @@ def zoom_app():
                 generate_btn = gr.Button(value='Generate video')
 
             with gr.Column():
-                output_image = gr.Video(label='Output', format="mp4").style(
-                    width=512, height=512)
+                output_image = gr.Video(label='Output', format="mp4", width=512, height=512)
 
         generate_btn.click(
             fn=zoom,
