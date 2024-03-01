@@ -3,13 +3,13 @@
 ## A colab notebook to generate infinite loop videos in minutes 
 it works on free colab plan
  
-<a target="_blank" href="https://colab.research.google.com/github/v8hid/infinite-zoom-stable-diffusion/blob/main/infinite_zoom_gradio.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/bitmat1/infinite-zoom-stable-diffusion/blob/main/infinite_zoom_gradio.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>  👈 Easy to use notebook 
 
 >built with gradio, with a nice UI
 
-<a target="_blank" href="https://colab.research.google.com/github/v8hid/infinite-zoom-stable-diffusion/blob/main/smooth_infinite_zoom.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/bitmat1/infinite-zoom-stable-diffusion/blob/main/smooth_infinite_zoom.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>  👈 Advanced notebook
 
