@@ -11,4 +11,4 @@ with app:
     )
     zoom_app()
 
-app.launch(debug=True, enable_queue=True)
+app.launch(debug=True)
